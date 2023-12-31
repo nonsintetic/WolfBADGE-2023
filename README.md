@@ -4,9 +4,9 @@
  This is the Official Wolf-e Robotics end of year badge. Every year we create something to celebrate the end of the year. This year it's an ornament / fridge magnet / desktop toy thing with a ton of addressable LEDs and WiFi connectivity. Feel free to remix it into your own fun design and poke us on social media if you do, we'd love to see it.
 
 # Hardware
- We used an Esp32 microcontroller module as the main processor. 
+ We used an ESP32 microcontroller module as the main processor. 
  
- The touch IC is connected to GPIO12 and will output HIGH when the decorative triangle pad is touched. There are two solder bridges you can link to configure the button to be a toggle switch and change it from active HIGH to active LOW.
+ The touch IC is connected to GPIO36 and will output HIGH when the decorative triangle pad is touched. There are two solder bridges you can link to configure the button to be a toggle switch and change it from active HIGH to active LOW.
 
  There is a PDM microphone on board connected to the ESP32 GPIO that can be configured in WLED. PDM DATA is on GPIO32 and PDM CLK is on GPIO15.
 
