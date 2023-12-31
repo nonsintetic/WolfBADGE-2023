@@ -1,3 +1,5 @@
+![WolfBADGE-2023](https://github.com/nonsintetic/WolfBADGE-2023/blob/main/res/wolfbadge-live.png?raw=true)
+
 # WolfBADGE-2023
  This is the Official Wolf-e Robotics end of year badge. Every year we create something to celebrate the end of the year. This year it's an ornament / fridge magnet / desktop toy thing with a ton of addressable LEDs and WiFi connectivity. Feel free to remix it into your own fun design and poke us on social media if you do, we'd love to see it.
 
